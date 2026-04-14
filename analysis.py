@@ -4,4 +4,3 @@ df = pd .DataFrame (data)
  print ( "Продажи по городам:" )
 print (df)
 print ( "Среднее значение:" , df[ "sales" ].mean() )
-
